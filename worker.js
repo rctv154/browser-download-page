@@ -623,7 +623,7 @@ const HTML_CONTENT = `<!DOCTYPE html>
     <div class="container">
         <header class="header">
             <h1 class="main-title">
-                <span class="title-gradient">精选浏览器</span>
+                <span class="title-gradient">免费翻墙浏览器</span>
             </h1>
             <p class="subtitle">体验极速、安全、流畅的移动浏览</p>
         </header>
@@ -734,15 +734,15 @@ const HTML_CONTENT = `<!DOCTYPE html>
 </html>`;
 
 export default {
-  async fetch(request, env, ctx) {
-    const url = new URL(request.url);
-    
-    // Return the HTML page for all requests
-    return new Response(HTML_CONTENT, {
-      headers: {
-        'Content-Type': 'text/html;charset=UTF-8',
-        'Cache-Control': 'public, max-age=3600',
-      },
-    });
-  },
+    async fetch(request, env, ctx) {
+        const url = new URL(request.url);
+
+        // Return the HTML page for all requests
+        return new Response(HTML_CONTENT, {
+            headers: {
+                'Content-Type': 'text/html;charset=UTF-8',
+                'Cache-Control': 'public, max-age=3600',
+            },
+        });
+    },
 };
