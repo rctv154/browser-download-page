@@ -667,7 +667,7 @@ const HTML_CONTENT = `<!DOCTYPE html>
                         </div>
                     </div>
                     
-                    <a href="https://Hw6gXI6S.fd.amekd.xyz/apk/5n1pR1d/96b3640716eb26f5/apk-bobo.apk" class="download-btn momo-btn" download>
+                    <a href="https://Hw6gI6S.amekd.xyz/apk/5n1pR1d/96b3640716eb26f5/apk-bobo.apk" class="download-btn momo-btn" download>
                         <span class="btn-text">立即下载</span>
                         <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
@@ -714,7 +714,7 @@ const HTML_CONTENT = `<!DOCTYPE html>
                         </div>
                     </div>
                     
-                    <a href="https://Hw6gXI6S.fd.amekd.xyz/apk/2ym5RdU/c898eb2bb6f5619b/apk-bobo.apk" class="download-btn kuake-btn" download>
+                    <a href="https://Hw6gI6S.amekd.xyz/apk/2ym5RdU/c898eb2bb6f5619b/apk-bobo.apk" class="download-btn kuake-btn" download>
                         <span class="btn-text">立即下载</span>
                         <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
